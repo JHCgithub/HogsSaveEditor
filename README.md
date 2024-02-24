@@ -4,7 +4,7 @@ Hogs of War Save Editor v1
 
 A save editor for hogs of war
 
-Zipped folder in .rar format. Extract the contents into a folder of your choice.
+Zipped folder in .rar format. (you'll need 7-zip or WinRar installed to extract currently) Extract the contents into a folder of your choice.
 
 Should be fairly intuitive. There's a couple quirks such as map locations being different ingame on PC that i've not accounted for.
 
