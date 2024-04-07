@@ -12,8 +12,8 @@ Should work with PC saves, indivudal PSX hardware save from a memorycard, and PS
 
 The current version V1.2 should reliably work with PC, Emulator Memory Cards, and Original hardware saves:
 	
-	- Choices for different save blocks for a Virtual memory card
-	- Choices for any save slot within a given save. Each Hogs of war save on a PSX platform allows 11 save slots
+- Choices for different save blocks for a Virtual memory card
+- Choices for any save slot within a given save. Each Hogs of war save on a PSX platform allows 11 save slots
 
 When saving a New Savegame, remember to name the file appropriately so that it matches that of the emulator memorycard or hardware platform you are using. For PC it's savearmyX, Where X is the save slot number
 
